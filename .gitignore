@@ -125,3 +125,4 @@ dmypy.json
 
 # Junk file
 *.DS_Store
+*.csv
