@@ -1282,5 +1282,4 @@ Morgans Insurance Limited (Hedron Network)
 Aon Limited (Isle of Man) (Glasgow APC) CANX
 Quartz Insurance Brokers Limited
 Risk Management and Insurance Services
-![image](https://github.com/mayankskii/Network/assets/43214641/e1e37e51-b876-4137-b675-d3a8f32c7bb1)
 
